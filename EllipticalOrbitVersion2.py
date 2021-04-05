@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import math
 import matplotlib.pyplot as plt
 import numpy as np
@@ -116,8 +110,6 @@ while True:
            # break
             #print ('Invalid input.')
 
-
-# In[ ]:
 
 
 
