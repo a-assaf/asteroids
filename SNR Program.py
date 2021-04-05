@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[14]:
-
-
 import math
 import matplotlib.pyplot as plt
 
@@ -18,10 +12,6 @@ reade = 8.2
 
 ratio = photons / math.sqrt(photons + pixels*(sky + darke + (reade**2)))
 print('The SNR is: ', ratio)
-
-
-# In[ ]:
-
 
 
 
