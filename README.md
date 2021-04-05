@@ -14,3 +14,6 @@ User will be prompted to enter the total number of photons (signal) of the image
 
 Background Star Analysis Program:
 Not yet uploaded.
+
+Smoothing Program:
+Not yet uploaded.
